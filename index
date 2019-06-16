@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>Заголовок страницы</title>
+   </head>
+   <body>
+   		<h1>Заголовок h1</h1>
+   		<h6>Заголовок h6 SIM SALABIM</h6>
+   		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tempus tortor pulvinar mauris eleifend aliquet. Ut convallis nec felis id eleifend. Aenean ac facilisis lorem, eget dictum nunc. Phasellus malesuada libero nec lectus efficitur volutpat. Praesent et magna ex. Aliquam nec augue tincidunt, condimentum ligula eu, rhoncus ligula. Integer at commodo diam. Vestibulum condimentum justo eu mauris efficitur consequat. Sed sit amet aliquet lectus, id interdum dolor. Suspendisse potenti.</p>
+   		<p>Donec pharetra maximus purus consequat porta. Nunc feugiat, ex laoreet placerat porta, dui mi tincidunt purus, a eleifend ante dolor vitae risus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam egestas, leo id congue rutrum, risus nisl porttitor arcu, quis mollis turpis diam eu arcu. Donec faucibus semper ipsum. Nullam at lobortis diam. Ut non tempor nisi. Nam nisi tortor, ultrices consectetur nisi id, sagittis finibus lorem. </p>
+   		<p>Nam lobortis arcu at leo iaculis, tempor tincidunt metus commodo. Nullam lacinia malesuada rhoncus. Pellentesque eu bibendum felis, non porttitor sem. Duis aliquet augue nisi, ac condimentum sem varius vitae. Nunc nisi erat, lacinia vel vulputate in, vulputate eget massa. Suspendisse ornare efficitur nunc, eget blandit felis egestas et. Quisque tempor magna in lectus gravida, eget blandit purus scelerisque. </p>
+   </body>
+</html>
